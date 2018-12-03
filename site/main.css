@@ -1,26 +1,26 @@
 p {
 	/*Можно менять*/
-	font-size: 22px;
+	font-size: 18px;
 	/*Можно менять*/
-	color: red ;
+	color: blue ;
 }
 
 main {
 	/*Можно менять*/
-	width: 90%;
+	width: 100%;
 	/*Ничего не трогаем*/
 	margin: auto;
 	/*Ничего не трогаем*/
 	max-width: 1000px;
 	/*Ничего не трогаем*/
-	background-color: #qqq;
+	background-color: #fff;
 	/*Ничего не трогаем*/
 	padding: 50px;
 }
 
 body {
 	/*Можно менять*/
-	background-color: #fff5ea; 
+	background-color: #ffb100; 
 	/*Ничего не трогаем*/
 	margin: 0;
 }
@@ -29,7 +29,7 @@ img {
 	/*Ничего не трогаем*/
 	display: block;
 	/*Ничего не трогаем*/
-	max-width: 50%;
+	max-width: 30%;
 }
 
 h1 {
